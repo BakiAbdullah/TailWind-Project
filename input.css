@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+body {
+ background-image: url(./img/bg-simplify-section-desktop.svg);
+ background: 90% 10%;
+ background-repeat: no-repeat;
+
+}
